@@ -39,3 +39,4 @@ yarn-error.*
 # lock files (caso não queira versionar)
 package-lock.json
 yarn.lock
+firebaseConfig.js
