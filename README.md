@@ -83,29 +83,16 @@ expo start
 
 📸 Screenshots
 
-🔐 Login Screen
-![Login Screen](./assets/Login.png)
+<img src="./assets/EventDetails.png" alt="Event Details" width="300" />
+<img src="./assets/Events.png" alt="Events" width="300" />
+<img src="./assets/Favorites.png" alt="Favorites" width="300" />
+<img src="./assets/Login.png" alt="Login" width="300" />
+<img src="./assets/Profile.png" alt="Profile" width="300" />
+<img src="./assets/RecoverPassword.png" alt="Recover Password" width="300" />
+<img src="./assets/Signup.png" alt="Signup" width="300" />
 
-📝 Signup Screen
-![Signup Screen](https://raw.githubusercontent.com/monica-evelin/app-eventbuddy/main/assets/Signup.png)
-
-🗓️ Events List
-![Events List](https://raw.githubusercontent.com/monica-evelin/app-eventbuddy/main/assets/Events.png)
-
-📄 Event Details
-![Event Details](https://raw.githubusercontent.com/monica-evelin/app-eventbuddy/refs/heads/main/assets/EventDetails.png)
-
-⭐ Favorites
-![Favorites](https://raw.githubusercontent.com/monica-evelin/app-eventbuddy/main/assets/Favorites.png)
-
-👤 Profile
-![Profile](https://raw.githubusercontent.com/monica-evelin/app-eventbuddy/main/assets/Profile.png)
-
-🔁 Password Recovery
-![Recover Password](./assets/RecoverPassword.png)
-
-📫 Contact
+### 👩‍💻 Author
 Developed by Monica Oliveira
-GitHub: @monica-evelin
-Email: monica.evelin@hotmail.com
+[LinkedIn](https://www.linkedin.com/in/monica-evelin/) | [GitHub](https://github.com/monica-evelin)
+
 ```

@@ -39,4 +39,8 @@ yarn-error.*
 # lock files (caso não queira versionar)
 package-lock.json
 yarn.lock
+
+# config files com dados sensíveis
 firebaseConfig.js
+.env
+
