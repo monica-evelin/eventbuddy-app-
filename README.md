@@ -84,7 +84,7 @@ expo start
 📸 Screenshots
 
 🔐 Login Screen
-![Login Screen](https://raw.githubusercontent.com/monica-evelin/app-eventbuddy/main/assets/Login.png)
+![Login Screen](./assets/Login.png)
 
 📝 Signup Screen
 ![Signup Screen](https://raw.githubusercontent.com/monica-evelin/app-eventbuddy/main/assets/Signup.png)
