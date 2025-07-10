@@ -93,7 +93,7 @@ expo start
 ![Events List](./assets/Events.png)
 
 📄 Event Details
-![Event Details](https://github.com/user-attachments/assets/04fdf3e6-c777-448c-b26c-c4055b9fd7b7)
+![Image](https://github.com/user-attachments/assets/a97bef0a-8fac-4aa9-9f13-48dfad34a5d3)
 
 
 ⭐ Favorites
