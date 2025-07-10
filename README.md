@@ -84,25 +84,25 @@ expo start
 📸 Screenshots
 
 🔐 Login Screen
-![Login Screen](./screenshots/Login.png)
+![Login Screen](https://github.com/user-attachments/assets/7879d79c-fa18-4c2e-92fe-cc6c1fcaea79)
 
 📝 Signup Screen
-![Signup Screen](./screenshots/Signup.png)
+![Signup Screen](https://github.com/user-attachments/assets/68ebb07f-e706-4039-bcb5-d6b6af1eaba5)
 
 🗓️ Events List
-![Events List](./screenshots/Events.png)
+![Events List](https://github.com/user-attachments/assets/73df96b5-5deb-4616-af9d-58cebefbcf6e)
 
 📄 Event Details
-![Event Details](./screenshots/EventDetails.png)
+![Event Details](https://github.com/user-attachments/assets/04fdf3e6-c777-448c-b26c-c4055b9fd7b7)
 
 ⭐ Favorites
-![Favorites](./screenshots/Favorites.png)
+![Favorites](https://github.com/user-attachments/assets/56424a42-f131-4343-a2d3-261f4962c0df)
 
 👤 Profile
-![Profile](./screenshots/Profile.png)
+![Profile](https://github.com/user-attachments/assets/cc86a7cc-7cf0-419b-a355-91fa1c7e7b87)
 
 🔁 Password Recovery
-![Recover Password](./screenshots/RecoverPassword.png)
+![Recover Password](https://github.com/user-attachments/assets/a1d7c97e-247b-4413-9447-e612f249d012)
 
 📫 Contact
 Developed by Monica Oliveira
