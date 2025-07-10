@@ -16,6 +16,7 @@ export default function LoginScreen({ navigation }) {
       await signIn(email, password);
     } catch (error) {
       console.log(error.message);
+      Alert.alert("Erro no login", error.message);
     }
   };
 

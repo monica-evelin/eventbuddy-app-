@@ -20,7 +20,7 @@ export default function SignupScreen() {
     try {
       await signUp(email, password);
       Alert.alert("Sucesso", "Conta criada com sucesso!");
-      navigation.navigate("Login");
+      //navigation.navigate("Login");
     } catch (error) {
       console.log("Erro ao criar conta:", error.message);
       Alert.alert("Erro", "Não foi possível criar a conta.");

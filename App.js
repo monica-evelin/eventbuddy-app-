@@ -16,26 +16,19 @@ function AppNavigator() {
   const { user, loading } = useAuth();
 
   if (loading) {
-    // Você pode retornar uma tela de loading aqui, se quiser
-    return null;
+    return null; // Ou uma tela de loading
   }
 
   return (
     <NavigationContainer>
-      <Stack.Navigator>
+      <Stack.Navigator screenOptions={{ headerShown: false }}>
         {user ? (
           <>
-            {/* Navigator principal com tabs */}
-            <Stack.Screen
-              name="MainTabs"
-              component={MainTabsNavigator}
-              options={{ headerShown: false }}
-            />
-            {/* Tela de detalhes do evento no stack do usuário logado */}
+            <Stack.Screen name="MainTabs" component={MainTabsNavigator} />
             <Stack.Screen
               name="EventDetails"
               component={EventDetailsScreen}
-              options={{ title: "Event Details" }}
+              options={{ title: "Event Details", headerShown: true }}
             />
           </>
         ) : (

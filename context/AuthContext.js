@@ -18,6 +18,7 @@ export const AuthProvider = ({ children }) => {
     const unsubscribe = auth.onAuthStateChanged((currentUser) => {
       setUser(currentUser);
       setLoading(false);
+      console.log("Usuário autenticado:", currentUser); // 👈 Aqui!
     });
 
     return unsubscribe;
