@@ -102,8 +102,7 @@ expo start
 ![Profile](https://raw.githubusercontent.com/monica-evelin/app-eventbuddy/main/assets/Profile.png)
 
 🔁 Password Recovery
-![Recover Password](https://raw.githubusercontent.com/monica-evelin/app-eventbuddy/main/assets/RecoverPassword.png)
-
+![Recover Password](./assets/RecoverPassword.png)
 
 📫 Contact
 Developed by Monica Oliveira
