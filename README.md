@@ -83,13 +83,13 @@ expo start
 
 📸 Screenshots
 
-![Login Screen](./screenshots/Login.png)
-![Event Details](./screenshots/EventDetails.png)
-![Events List](./screenshots/Events.png)
-![Favorites](./screenshots/Favorites.png)
-![Profile](./screenshots/Profile.png)
-![Recover Password](./screenshots/RecoverPassword.png)
-![Signup](./screenshots/Signup.png)
+![Login Screen](screenshots/Login.png)
+![Event Details](screenshots/EventDetails.png)
+![Events List](screenshots/Events.png)
+![Favorites](screenshots/Favorites.png)
+![Profile](screenshots/Profile.png)
+![Recover Password](screenshots/RecoverPassword.png)
+![Signup](screenshots/Signup.png)
 
 📫 Contact
 Developed by Monica Oliveira
