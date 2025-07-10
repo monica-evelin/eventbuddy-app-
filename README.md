@@ -93,7 +93,7 @@ expo start
 ![Events List](./screenshots/Events.png)
 
 📄 Event Details
-![Event Details](./screenshots/EventDetaisl.png)
+![Event Details](./screenshots/EventDetails.png)
 
 ⭐ Favorites
 ![Favorites](./screenshots/Favorites.png)
