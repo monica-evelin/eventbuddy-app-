@@ -92,7 +92,10 @@ expo start
 <img src="./assets/Signup.png" alt="Signup" width="300" />
 
 ### 👩‍💻 Author
-Developed by Monica Oliveira
+
+Developed by **Monica Oliveira**
+
 [LinkedIn](https://www.linkedin.com/in/monica-evelin/) | [GitHub](https://github.com/monica-evelin)
+
 
 ```
