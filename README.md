@@ -83,28 +83,26 @@ expo start
 
 📸 Screenshots
 
-📸 Screenshots
-
 🔐 Login Screen
-![Login Screen](https://raw.githubusercontent.com/monica-evelin/app-eventbuddy/main/screenshots/Login.png)
+![Login Screen](./assets/Login.png)
 
 📝 Signup Screen
-![Signup Screen](https://raw.githubusercontent.com/monica-evelin/app-eventbuddy/main/screenshots/Signup.png)
+![Signup Screen](./assets/Signup.png)
 
 🗓️ Events List
-![Events List](https://raw.githubusercontent.com/monica-evelin/app-eventbuddy/main/screenshots/Events.png)
+![Events List](./assets/Events.png)
 
 📄 Event Details
-![Event Details](https://raw.githubusercontent.com/monica-evelin/app-eventbuddy/main/screenshots/EventDetails.png)
+![Event Details](./assets/Details.png)
 
 ⭐ Favorites
-![Favorites](https://raw.githubusercontent.com/monica-evelin/app-eventbuddy/main/screenshots/Favorites.png)
+![Favorites](./assets/Favorites.png)
 
 👤 Profile
-![Profile](https://raw.githubusercontent.com/monica-evelin/app-eventbuddy/main/screenshots/Profile.png)
+![Profile](./assets/Profile.png)
 
 🔁 Password Recovery
-![Recover Password](https://raw.githubusercontent.com/monica-evelin/app-eventbuddy/main/screenshots/RecoverPassword.png)
+![Recover Password](./assets/RecoverPassword.png)
 
 📫 Contact
 Developed by Monica Oliveira
