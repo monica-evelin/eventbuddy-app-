@@ -93,7 +93,7 @@ expo start
 ![Events List](https://raw.githubusercontent.com/monica-evelin/app-eventbuddy/main/assets/Events.png)
 
 📄 Event Details
-![Event Details](https://raw.githubusercontent.com/monica-evelin/app-eventbuddy/main/assets/EventDetails.png)
+![Event Details](https://raw.githubusercontent.com/monica-evelin/app-eventbuddy/refs/heads/main/assets/EventDetails.png)
 
 ⭐ Favorites
 ![Favorites](https://raw.githubusercontent.com/monica-evelin/app-eventbuddy/main/assets/Favorites.png)
