@@ -34,13 +34,19 @@ It features secure authentication using Firebase, allowing users to sign up, log
 ```bash
 git clone https://github.com/monica-evelin/EventBuddy.git
 cd EventBuddy
+```
 
 2. Install dependencies:
+
+```bash
 npm install
 # or
 yarn install
+```
 
-3. Create a firebaseConfig.js file in the root directory:
+3. Create a `firebaseConfig.js` file in the root directory:
+
+```js
 // firebaseConfig.js
 export const firebaseConfig = {
   apiKey: "YOUR_API_KEY",
@@ -48,13 +54,21 @@ export const firebaseConfig = {
   projectId: "YOUR_PROJECT_ID",
   storageBucket: "YOUR_STORAGE_BUCKET",
   messagingSenderId: "YOUR_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  appId: "YOUR_APP_ID",
 };
+```
 
 4. Run the app:
-expo start
 
-🧱 Project Structure
+```bash
+expo start
+```
+
+---
+
+## 🧱 Project Structure
+
+```
 .
 ├── assets/               # Icons and images
 ├── components/           # Reusable components (e.g., Background)
@@ -66,22 +80,27 @@ expo start
 ├── App.js                # Main app file
 ├── README.md             # Project documentation
 └── screenshots/          # Screenshots for the README
+```
 
-🧪 Completed Features
+---
+
+## 🧪 Completed Features
 
 | Feature                         | Status |
 | ------------------------------- | ------ |
-| Firebase auth (login/signup)    | ✅      |
-| Password recovery               | ✅      |
-| Event listing + details         | ✅      |
-| Join/cancel event participation | ✅      |
-| Favorites system                | ✅      |
-| Google Maps integration         | ✅      |
-| Profile editing (name & DOB)    | ✅      |
-| Profile picture upload          | ✅      |
-| Responsive UI                   | ✅      |
+| Firebase auth (login/signup)    | ✅     |
+| Password recovery               | ✅     |
+| Event listing + details         | ✅     |
+| Join/cancel event participation | ✅     |
+| Favorites system                | ✅     |
+| Google Maps integration         | ✅     |
+| Profile editing (name & DOB)    | ✅     |
+| Profile picture upload          | ✅     |
+| Responsive UI                   | ✅     |
 
-📸 Screenshots
+---
+
+## 📸 Screenshots
 
 <img src="./assets/EventDetails.png" alt="Event Details" width="300" />
 <img src="./assets/Events.png" alt="Events" width="300" />
@@ -91,11 +110,10 @@ expo start
 <img src="./assets/RecoverPassword.png" alt="Recover Password" width="300" />
 <img src="./assets/Signup.png" alt="Signup" width="300" />
 
+---
+
 ### 👩‍💻 Author
 
 Developed by **Monica Oliveira**
 
 [LinkedIn](https://www.linkedin.com/in/monica-evelin/) | [GitHub](https://github.com/monica-evelin)
-
-
-```
